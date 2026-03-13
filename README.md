@@ -1,20 +1,20 @@
-# burnr
+# fakeout
 
-[![npm version](https://img.shields.io/npm/v/burnr.svg)](https://www.npmjs.com/package/burnr)
-[![license](https://img.shields.io/npm/l/burnr.svg)](./LICENSE)
+[![npm version](https://img.shields.io/npm/v/fakeout.svg)](https://www.npmjs.com/package/fakeout)
+[![license](https://img.shields.io/npm/l/fakeout.svg)](./LICENSE)
 
 Detect disposable (burner) email domains. Zero dependencies, auto-updated dataset.
 
 ## Install
 
 ```bash
-npm install burnr
+npm install fakeout
 ```
 
 ## Usage
 
 ```ts
-import { isDisposableEmail, isDisposableDomain, getDisposableDomains } from "burnr";
+import { isDisposableEmail, isDisposableDomain, getDisposableDomains } from "fakeout";
 
 isDisposableEmail("user@mailinator.com"); // true
 isDisposableEmail("user@gmail.com");      // false
