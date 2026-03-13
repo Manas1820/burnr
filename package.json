@@ -1,0 +1,49 @@
+{
+  "name": "burnr",
+  "version": "0.0.0-semantically-released",
+  "description": "Detect disposable email domains — zero dependencies, auto-updated dataset",
+  "type": "module",
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "import": "./dist/index.js"
+    }
+  },
+  "types": "./dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "engines": {
+    "node": ">=18"
+  },
+  "packageManager": "pnpm@9.15.0",
+  "scripts": {
+    "build": "tsc",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "sync-domains": "tsx scripts/sync-domains.ts"
+  },
+  "keywords": [
+    "disposable",
+    "email",
+    "temporary",
+    "burner",
+    "validation",
+    "domain",
+    "blocklist"
+  ],
+  "author": "",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Manas1820/burnr.git"
+  },
+  "devDependencies": {
+    "typescript": "^5.7.0",
+    "vitest": "^3.0.0",
+    "tsx": "^4.19.0",
+    "@semantic-release/changelog": "^6.0.3",
+    "@semantic-release/git": "^10.0.1",
+    "semantic-release": "^24.0.0"
+  }
+}
