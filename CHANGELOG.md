@@ -1,3 +1,15 @@
+## [1.0.2](https://github.com/Manas1820/fakeout/compare/v1.0.1...v1.0.2) (2026-03-21)
+
+
+### Bug Fixes
+
+* trigger release after domain updates and document staying up to date ([7c86001](https://github.com/Manas1820/fakeout/commit/7c860018b9967a263cd8ba6abbaf3816aa5763cb))
+* update disposable email domains ([a129794](https://github.com/Manas1820/fakeout/commit/a12979464cc3f7ebd7d397290bb8656c6c034e3a))
+* update disposable email domains ([1228db9](https://github.com/Manas1820/fakeout/commit/1228db99ba1df450b842f565fab3c5410a8b7d05))
+* update disposable email domains ([2342788](https://github.com/Manas1820/fakeout/commit/23427885b7b5ccce6cdf3a0ee6a1272d1a880756))
+* update disposable email domains ([c5d3305](https://github.com/Manas1820/fakeout/commit/c5d330524912ecdd4b421c404f7bf0704ec1e0ae))
+* update disposable email domains ([9f9b59e](https://github.com/Manas1820/fakeout/commit/9f9b59e962ab7725aa28144c216e354a70c4976e))
+
 ## [1.0.1](https://github.com/Manas1820/fakeout/compare/v1.0.0...v1.0.1) (2026-03-13)
 
 
