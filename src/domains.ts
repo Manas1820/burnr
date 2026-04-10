@@ -3153,6 +3153,7 @@ export const DISPOSABLE_DOMAINS: ReadonlySet<string> = new Set<string>([
   "moneypipe.net",
   "mongrec.top",
   "monmail.fr.nf",
+  "monomoho.site",
   "monumentmail.com",
   "moolee.net",
   "moonapps.org",
