@@ -1,6 +1,6 @@
 {
   "name": "fakeout",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "description": "Detect disposable email domains — zero dependencies, auto-updated dataset",
   "type": "module",
   "exports": {
