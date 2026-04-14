@@ -1408,6 +1408,7 @@ export const DISPOSABLE_DOMAINS: ReadonlySet<string> = new Set<string>([
   "emailaoa.pro",
   "emailate.com",
   "emailawb.pro",
+  "emailax.pro",
   "emailbbox.pro",
   "emailbin.net",
   "emailboxer.one",
