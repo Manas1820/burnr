@@ -984,6 +984,7 @@ export const DISPOSABLE_DOMAINS: ReadonlySet<string> = new Set<string>([
   "copyhome.win",
   "coreclip.com",
   "corhash.net",
+  "cosdas.com",
   "cosmorph.com",
   "cosoinan.com",
   "cotasen.com",
