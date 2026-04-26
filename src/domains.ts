@@ -2145,6 +2145,7 @@ export const DISPOSABLE_DOMAINS: ReadonlySet<string> = new Set<string>([
   "hidemail.pro",
   "hidemail.us",
   "hidesmail.net",
+  "hidingmail.net",
   "hidmail.org",
   "hidzz.com",
   "hiemail.net",
