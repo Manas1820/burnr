@@ -2643,6 +2643,7 @@ export const DISPOSABLE_DOMAINS: ReadonlySet<string> = new Set<string>([
   "kwilco.net",
   "kwtest.io",
   "kyal.pl",
+  "kynninc.com",
   "kyois.com",
   "kyriog.fr",
   "kyuusei.fr.nf",
