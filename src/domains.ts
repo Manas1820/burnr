@@ -1110,6 +1110,7 @@ export const DISPOSABLE_DOMAINS: ReadonlySet<string> = new Set<string>([
   "dealja.com",
   "deallabs.org",
   "dealrek.com",
+  "deapad.com",
   "decep.com",
   "decodewp.com",
   "dede.infos.st",
