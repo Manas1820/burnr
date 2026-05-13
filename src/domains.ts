@@ -2465,6 +2465,7 @@ export const DISPOSABLE_DOMAINS: ReadonlySet<string> = new Set<string>([
   "javadmin.com",
   "javaemail.com",
   "jbsze.com",
+  "jbsze.ne",
   "jcnorris.com",
   "jdmadventures.com",
   "jdz.ro",
